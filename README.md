@@ -23,4 +23,4 @@ Here are some ideas to get you started:
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=WaelAlQawasmi&show_icons=true)  
 
-
+![GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=WaelAlQawasmi&show_icons=true) 
