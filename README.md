@@ -18,7 +18,6 @@ Here are some ideas to get you started:
 
 - :seedling: Code Fellows Advanced Software Development Intensive Program Graduate.
 - :computer: Most used combination of lines of code `git add ; git commit ; git push`.
-- 🤔 Looking for an internship or an entry level job opportunity
 - 🕹 Hit me up if you are up for an Apex Legends match
 - :speech_balloon: Ask me anything.
 
