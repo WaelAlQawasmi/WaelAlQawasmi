@@ -22,5 +22,5 @@ Here are some ideas to get you started:
 
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=WaelAlQawasmi&show_icons=true)  
-<p>&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WaelAlQawasmi&layout=compact" width="40%"/></p>
+<p>&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WaelAlQawasmi&layout=compact" width="50%"/></p>
 
