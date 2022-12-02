@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1>About Me 📌</h1>
+# About Me 📌
 - 🔭 I’m currently working on Security fist as backend developer
 - :seedling: Code Fellows Advanced Software Development Intensive Program Graduate.
 - :computer: Most used combination of lines of code `git add ; git commit ; git push`.
