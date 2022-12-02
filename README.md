@@ -29,9 +29,13 @@ Here are some ideas to get you started:
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/WaelAlQawasmi) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/wael-al-qawasmi/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://github.com/WaelAlQawasmi) 
 
 
+<p align = "center">
+  <img src = "https://github-readme-stats.vercel.app/api?username=WaelAlQawasmi&count_private=true&theme=dracula&hide_border=true" alt = "WaelAlQawasmi Contribution" width = 400 >
+  <img src = "https://github-readme-streak-stats.herokuapp.com?user=WaelAlQawasmi&theme=dracula&hide_border=true" alt = "WaelAlQawasmi Rating" width = 400 >
+
+</p>
 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=WaelAlQawasmi&show_icons=true)  
 <p>&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WaelAlQawasmi&layout=compact" width="50%"/></p>
 
 
