@@ -14,8 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-
+<h1>About Me 📌</h1>
+- 🔭 I’m currently working on Security fist as backend developer
 - :seedling: Code Fellows Advanced Software Development Intensive Program Graduate.
 - :computer: Most used combination of lines of code `git add ; git commit ; git push`.
 - :speech_balloon: Ask me anything.
@@ -34,10 +34,21 @@ Here are some ideas to get you started:
   <img src = "https://github-readme-streak-stats.herokuapp.com?user=WaelAlQawasmi&theme=dracula&hide_border=true" alt = "WaelAlQawasmi Rating" width = 400 >
 
 </p>
+<p align = "center">
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WaelAlQawasmi&layout=compact" width="50%"/></p>
+<h2 align="center">Visitors 👀</h2>
 
-<p>&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WaelAlQawasmi&layout=compact" width="50%"/></p>
-
+<div align="center" >
 
 ![GitHub stats](https://profile-counter.glitch.me/WaelAlQawasmi/count.svg)  
+  </div>
+  
+  
+  <h2 align="center">Profiles😎</h2>
+<p align="center">
+    <a href = "https://www.hackerrank.com/wael_alqawasmi?hr_r=1"><img src="https://cloud.githubusercontent.com/assets/5856011/6236489/fd2c2628-b6b8-11e4-9db9-05045d3438c6.png"/></a>
+  <a href = "https://leetcode.com/Wael-Al-alqawasmi/"><img src = "https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png" height = 40></a>
+
+</p>
 
