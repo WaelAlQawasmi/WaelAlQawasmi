@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # About Me 📌
-- 🔭 I’m currently working on Security fist as backend developer
+- 🔭 I’m currently working with <a href="https://bayt.com">Bayt.com</a> as a Software Engineer
 - :seedling: Code Fellows Advanced Software Development Intensive Program Graduate.
 - :computer: Most used combination of lines of code `git add ; git commit ; git push`.
 - :speech_balloon: Ask me anything.
