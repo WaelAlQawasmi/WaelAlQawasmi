@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Wael Al Qawasmi</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Software+Engineer+%7C+AWS+Certified;Backend+Specialist+%7C+Laravel%2C+Spring+Boot%2C+CakePHP;Frontend+Developer+with+Vue.js;Docker+%7C+Linux+%7C+Cloud+Engineer;Electrical+Engineer+Turned+Coder&center=true&width=800&height=45&color=36BCF7&vCenter=true&pause=1000&size=22" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Software+Engineer+%7C+AWS+Certified;Backend+Specialist+%7C+Laravel%2C+Spring+Boot%2C+CakePHP;Docker+%7C+Linux+%7C+Cloud+Engineer;Electrical+Engineer+Turned+Coder&center=true&width=800&height=45&color=36BCF7&vCenter=true&pause=1000&size=22" />
 </p>
 
 ---
@@ -15,7 +15,9 @@
 - 💡 Frontend development using **Vue.js**  
 - 🐳 DevOps experience with **Docker**, **Linux**, and modern CI/CD tools  
 - 🧠 Passionate about **clean architecture**, **SOLID principles**, and **design patterns**  
-- 🌱 Always improving my craft through building and continuous learning  
+- 🌱 Always improving my craft through building and continuous learning
+- 💻 Most used combination of lines of code git add ; git commit ; git push.
+
 
 ---
 ## 🧠 Tech Stack
@@ -43,8 +45,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=WaelAlQawasmi&count_private=true&theme=dracula&hide_border=true" width="400"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=WaelAlQawasmi&theme=dracula&hide_border=true" width="400"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=WaelAlQawasmi&count_private=true&theme=dracula&hide_border=true&show_icons=true" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=WaelAlQawasmi&theme=dracula&hide_border=true" height="180"/>
 </p>
 
 <p align="center">
