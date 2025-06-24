@@ -1,58 +1,82 @@
-## Hi there 👋
+<!-- GitHub Profile README -->
+<h1 align="center">Hi 👋, I'm Wael Al Qawasmi</h1>
 
-<!--
-**WaelAlQawasmi/WaelAlQawasmi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-# About Me 📌
-
-- :seedling: Code Fellows Advanced Software Development Intensive Program Graduate.
-- :computer: Most used combination of lines of code `git add ; git commit ; git push`.
-- :speech_balloon: Ask me anything.
-
-🤝 &nbsp; Connect with Me
-
-
-
-
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/WaelAlQawasmi) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/wael-al-qawasmi/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://github.com/WaelAlQawasmi) 
-
-
-<p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=WaelAlQawasmi&count_private=true&theme=dracula&hide_border=true" alt = "WaelAlQawasmi Contribution" width = 400 >
-  <img src = "https://github-readme-streak-stats.herokuapp.com?user=WaelAlQawasmi&theme=dracula&hide_border=true" alt = "WaelAlQawasmi Rating" width = 400 >
-
-</p>
-
-<p align = "center">
-
- <img src = "https://github-readme-stats.vercel.app/api/top-langs?username=WaelAlQawasmi&show_icons=true&count_private=true&locale=en&layout=compact&langs_count=8&hide_border=true&bg_color=282A36&title_color=DD6387&text_color=fff&icon_color=fff" alt = "WaelAlQawasmi Languages/Frameworks" width = 400 />
-</p>
-
-
-<h2 align="center">Visitors 👀</h2>
-
-<div align="center" >
-
-![GitHub stats](https://profile-counter.glitch.me/WaelAlQawasmi/count.svg)  
-  </div>
-  
-  
-  <h2 align="center">Profiles😎</h2>
 <p align="center">
-    <a href = "https://www.hackerrank.com/wael_alqawasmi?hr_r=1"><img src="https://cloud.githubusercontent.com/assets/5856011/6236489/fd2c2628-b6b8-11e4-9db9-05045d3438c6.png"/></a>
-  <a href = "https://leetcode.com/Wael-Al-alqawasmi/"><img src = "https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png" height = 40></a>
-
+  <img src="https://readme-typing-svg.demolab.com/?lines=Software+Engineer+%7C+AWS+Certified;Backend+Specialist+%7C+Laravel%2C+Spring+Boot%2C+CakePHP;Frontend+Developer+with+Vue.js;Docker+%7C+Linux+%7C+Cloud+Engineer;Electrical+Engineer+Turned+Coder&center=true&width=800&height=45&color=36BCF7&vCenter=true&pause=1000&size=22" />
 </p>
 
+---
+
+## 👨‍💻 About Me
+
+- 🎓 Software Engineer with an **Electrical Engineering** background  
+- ☁️ **AWS Certified** – experienced in deploying scalable cloud systems  
+- 🧱 Backend development using **Laravel**, **Spring Boot (Java)**, **Yii**, and **CakePHP**  
+- 💡 Frontend development using **Vue.js**  
+- 🐳 DevOps experience with **Docker**, **Linux**, and modern CI/CD tools  
+- 🧠 Passionate about **clean architecture**, **SOLID principles**, and **design patterns**  
+- 🌱 Always improving my craft through building and continuous learning  
+
+---
+
+## 🧠 Tech Stack
+
+**Languages & Frameworks**  
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)  
+![Laravel](https://img.shields.io/badge/Laravel-F05340?style=for-the-badge&logo=laravel&logoColor=white)  
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)  
+![CakePHP](https://img.shields.io/badge/CakePHP-D33C43?style=for-the-badge&logo=cakephp&logoColor=white)  
+![Yii](https://img.shields.io/badge/Yii-43B02A?style=for-the-badge&logo=yii&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)  
+
+**Tools & Platforms**  
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)  
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)  
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)  
+![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)  
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=WaelAlQawasmi&count_private=true&theme=dracula&hide_border=true" width="400"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=WaelAlQawasmi&theme=dracula&hide_border=true" width="400"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=WaelAlQawasmi&layout=compact&hide_border=true&theme=dracula" width="400"/>
+</p>
+
+---
+
+## 🏅 Certifications
+
+<p align="center">
+  <a href="https://www.credly.com/users/wael-al-qawasmi" target="_blank">
+    <img src="https://images.credly.com/size/340x340/images/f58a2b8c-d46c-405b-9adf-1f3936a988a6/image.png" alt="AWS Certified Badge" width="100"/>
+  </a>
+  <!-- Add more badges as needed -->
+</p>
+
+---
+
+## 🌐 Find Me Online
+
+<p align="center">
+  <a href="https://github.com/WaelAlQawasmi"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/wael-al-qawasmi/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://leetcode.com/Wael-Al-alqawasmi/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
+  <a href="https://www.hackerrank.com/wael_alqawasmi?hr_r=1"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/></a>
+  <a href="https://www.credly.com/users/wael-al-qawasmi"><img src="https://img.shields.io/badge/Credly-F36F21?style=for-the-badge&logo=credly&logoColor=white"/></a>
+</p>
+
+---
+
+## 👀 Visitor Count
+
+<p align="center">
+  <img src="https://profile-counter.glitch.me/WaelAlQawasmi/count.svg" />
+</p>
