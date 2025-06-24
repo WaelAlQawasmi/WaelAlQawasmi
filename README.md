@@ -55,12 +55,23 @@
 
 ## 🏅 Certifications
 
+
 <p align="center">
-  <a href="https://www.credly.com/users/wael-al-qawasmi" target="_blank">
-    <img src="https://images.credly.com/size/340x340/images/f58a2b8c-d46c-405b-9adf-1f3936a988a6/image.png" alt="AWS Certified Badge" width="100"/>
+  <!-- AWS Cloud Certification -->
+  <a href="https://www.credly.com/badges/e1915169-f155-45a0-befb-f1bff2e266cb" target="_blank">
+    <img src="https://images.credly.com/size/340x340/images/f58a2b8c-d46c-405b-9adf-1f3936a988a6/image.png" alt="AWS Cloud Certification" width="100"/>
   </a>
-  <!-- Add more badges as needed -->
+  
+  <!-- Software Engineering Certification -->
+  <a href="https://www.credly.com/badges/7f865efc-8fd0-48f0-ad8f-8a1b24d36287" target="_blank">
+    <img src="https://images.credly.com/size/340x340/images/89cd5a9d-69ce-4e13-a0d7-0ce5a4d12d2a/image.png" alt="Software Engineer Certification" width="100"/>
+  </a>
 </p>
+
+<p align="center">
+  🔗 See all my badges on <a href="https://www.credly.com/users/wa-el-al-qawasmi" target="_blank">Credly Profile</a>
+</p>
+
 
 ---
 
