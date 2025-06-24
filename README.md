@@ -59,12 +59,12 @@
 <p align="center">
   <!-- AWS Cloud Certification -->
   <a href="https://www.credly.com/badges/e1915169-f155-45a0-befb-f1bff2e266cb" target="_blank">
-    <img src="https://images.credly.com/size/340x340/images/f58a2b8c-d46c-405b-9adf-1f3936a988a6/image.png" alt="AWS Cloud Certification" width="100"/>
+    <img src="https://images.credly.com/size/340x340/images/2784d0d8-327c-406f-971e-9f0e15097003/image.png" alt="AWS Cloud Certification" width="100"/>
   </a>
   
   <!-- Software Engineering Certification -->
   <a href="https://www.credly.com/badges/7f865efc-8fd0-48f0-ad8f-8a1b24d36287" target="_blank">
-    <img src="https://images.credly.com/size/340x340/images/89cd5a9d-69ce-4e13-a0d7-0ce5a4d12d2a/image.png" alt="Software Engineer Certification" width="100"/>
+    <img src="https://images.credly.com/size/340x340/images/c91c5a3f-1026-4d8a-9669-b94ec05636e9/badge-1_2x_1__1_.png" alt="Software Engineer Certification" width="100"/>
   </a>
 </p>
 
@@ -82,7 +82,7 @@
   <a href="https://www.linkedin.com/in/wael-al-qawasmi/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://leetcode.com/Wael-Al-alqawasmi/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
   <a href="https://www.hackerrank.com/wael_alqawasmi?hr_r=1"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/></a>
-  <a href="https://www.credly.com/users/wael-al-qawasmi"><img src="https://img.shields.io/badge/Credly-F36F21?style=for-the-badge&logo=credly&logoColor=white"/></a>
+  <a href="https://www.credly.com/users/wa-el-al-qawasmi"><img src="https://img.shields.io/badge/Credly-F36F21?style=for-the-badge&logo=credly&logoColor=white"/></a>
 </p>
 
 ---
