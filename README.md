@@ -77,15 +77,26 @@
 
 ---
 
-## 🌐 Find Me Online
+## 🔗 Connect with Me
 
 <p align="center">
-  <a href="https://github.com/WaelAlQawasmi"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/wael-al-qawasmi/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://leetcode.com/Wael-Al-alqawasmi/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
-  <a href="https://www.hackerrank.com/wael_alqawasmi?hr_r=1"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/></a>
-  <a href="https://www.credly.com/users/wa-el-al-qawasmi"><img src="https://img.shields.io/badge/Credly-F36F21?style=for-the-badge&logo=credly&logoColor=white"/></a>
+  <a href="https://github.com/WaelAlQawasmi" title="GitHub">
+    <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://www.linkedin.com/in/wael-al-qawasmi/" title="LinkedIn">
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://leetcode.com/Wael-Al-alqawasmi/" title="LeetCode">
+    <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/>
+  </a>
+  <a href="https://www.hackerrank.com/wael_alqawasmi?hr_r=1" title="HackerRank">
+    <img src="https://img.shields.io/badge/-HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank"/>
+  </a>
+  <a href="https://www.credly.com/users/wa-el-al-qawasmi" title="Credly">
+    <img src="https://img.shields.io/badge/-Credly-F36F21?style=for-the-badge&logo=credly&logoColor=white" alt="Credly"/>
+  </a>
 </p>
+
 
 ---
 
