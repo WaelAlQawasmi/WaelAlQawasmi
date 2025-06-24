@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Wael Al Qawasmi</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Software+Engineer+%7C+AWS+Certified;Backend+Specialist+%7C+Laravel%2C+Spring+Boot%2C+CakePHP;Docker+%7C+Linux+%7C+Cloud+Engineer;Electrical+Engineer+Turned+Coder&center=true&width=800&height=45&color=36BCF7&vCenter=true&pause=1000&size=22" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Software+Engineer+%7C+AWS+Certified;Backend+Specialist+%7C+Laravel%2C+Spring+Boot%2C+CakePHP;Docker+%7C+Linux+%7C+Cloud+Engineer&center=true&width=800&height=45&color=36BCF7&vCenter=true&pause=1000&size=22" />
 </p>
 
 ---
