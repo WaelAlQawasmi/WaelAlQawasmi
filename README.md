@@ -61,7 +61,7 @@
 <p align="center">
   <!-- AWS Cloud Certification -->
   <a href="https://www.credly.com/badges/e1915169-f155-45a0-befb-f1bff2e266cb" target="_blank">
-    <img src="[https://images.credly.com/size/340x340/images/2784d0d8-327c-406f-971e-9f0e15097003/image.png](https://images.credly.com/images/30816e43-2550-4e1c-be22-3f03c5573bb9/blob)" alt="AWS Cloud Certification" width="100"/>
+    <img src="https://www.sunsetlearning.com/wp-content/uploads/2022/06/AWS-Certified-Cloud-Practitioner_badge-200x200.png" alt="AWS Cloud Certification" width="100"/>
   </a>
   
   <!-- Software Engineering Certification -->
